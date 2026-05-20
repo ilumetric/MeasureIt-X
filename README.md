@@ -3,6 +3,9 @@
 A modernized fork of the classic **MeasureIt** add-on for Blender, focused on a cleaner, more streamlined workflow and proper integration with the 3D viewport.
 
 > Original add-on by **Antonio Vazquez (antonioya)**. All credit for the foundation goes to the original author and the Blender community.
+>
+> Original repository: https://projects.blender.org/antoniov/measureit
+> Blender Extensions page: https://extensions.blender.org/add-ons/measureit/
 
 ## What's different in MeasureIt X
 
@@ -20,8 +23,8 @@ A modernized fork of the classic **MeasureIt** add-on for Blender, focused on a 
 ### Option 1 — Install from disk (recommended)
 
 1. Download this repository as a ZIP (**Code > Download ZIP**) **or** clone it and zip the `MeasureIt-X` folder yourself.
-2. In Blender, open **Edit > Preferences > Get Extensions** (or **Add-ons** in older builds).
-3. Click the dropdown in the top-right and choose **Install from Disk...**
+2. In Blender, open **Edit > Preferences > Add-ons**.
+3. Click the dropdown arrow in the top-right of the Add-ons panel and choose **Install from Disk...**
 4. Select the ZIP file.
 5. Enable **MeasureIt X** in the list.
 
