@@ -2,8 +2,6 @@
 
 A modernized fork of the classic **MeasureIt** add-on for Blender, focused on a cleaner, more streamlined workflow and proper integration with the 3D viewport.
 
-> Original add-on by **Antonio Vazquez (antonioya)**. All credit for the foundation goes to the original author and the Blender community. Forked by **Max Derksen**.
-
 ## What's different in MeasureIt X
 
 - **Lives in 3D space, not screen space.** Measurements are drawn as real 3D overlays, so they behave correctly with camera movement, perspective, and depth — no more flat, screen-glued labels that ignore your scene.
