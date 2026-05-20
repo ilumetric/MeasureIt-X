@@ -2,10 +2,7 @@
 
 A modernized fork of the classic **MeasureIt** add-on for Blender, focused on a cleaner, more streamlined workflow and proper integration with the 3D viewport.
 
-> Original add-on by **Antonio Vazquez (antonioya)**. All credit for the foundation goes to the original author and the Blender community.
->
-> Original repository: https://projects.blender.org/antoniov/measureit
-> Blender Extensions page: https://extensions.blender.org/add-ons/measureit/
+> Original add-on by **Antonio Vazquez (antonioya)**. All credit for the foundation goes to the original author and the Blender community. Forked by **Max Derksen**.
 
 ## What's different in MeasureIt X
 
@@ -30,16 +27,16 @@ A modernized fork of the classic **MeasureIt** add-on for Blender, focused on a 
 
 ### Option 2 — Manual install
 
-1. Copy the `MeasureIt-X` folder into your Blender extensions / add-ons directory:
-   - **Windows:** `%APPDATA%\Blender Foundation\Blender\<version>\extensions\user_default\`
-   - **macOS:** `~/Library/Application Support/Blender/<version>/extensions/user_default/`
-   - **Linux:** `~/.config/blender/<version>/extensions/user_default/`
+1. Copy the `MeasureIt-X` folder into your Blender add-ons directory:
+   - **Windows:** `%APPDATA%\Blender Foundation\Blender\<version>\scripts\addons\`
+   - **macOS:** `~/Library/Application Support/Blender/<version>/scripts/addons/`
+   - **Linux:** `~/.config/blender/<version>/scripts/addons/`
 2. Restart Blender.
 3. Enable **MeasureIt X** in **Preferences > Add-ons**.
 
 ## Usage
 
-1. Open the **N-panel** in the 3D Viewport and find the **Display** tab.
+1. Open the **N-panel** in the 3D Viewport and find the **View** tab.
 2. Select an object (or enter Edit Mode and pick vertices).
 3. Use the MeasureIt X panel to add segments, angles, arcs, areas, labels, notes, or origins.
 4. Measurements render directly in the viewport and follow your camera in true 3D.
@@ -52,5 +49,6 @@ Released under the **GPL-3.0-or-later** license, matching the original MeasureIt
 ## Credits
 
 - Original author: **Antonio Vazquez (antonioya)**
-- Original project: https://projects.blender.org/extensions/measureit
-- Fork maintained by the community as **MeasureIt X**.
+- Original repository: https://projects.blender.org/antoniov/measureit
+- Blender Extensions page: https://extensions.blender.org/add-ons/measureit/
+- Fork by **Max Derksen**, maintained as **MeasureIt X**.
